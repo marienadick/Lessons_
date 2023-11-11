@@ -1,2 +1,6 @@
 some text for header
-Changes from <master> - new changes
+<<<<<<< HEAD
+Changes from <master>
+changes from <first>
+
+text from main: new chages
