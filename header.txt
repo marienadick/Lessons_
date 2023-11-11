@@ -1,5 +1,5 @@
 some text for header
-<<<<<<< HEAD
+
 Changes from <master>
 changes from <first>
 
